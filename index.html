@@ -1,1 +1,20 @@
-Hello World
+<head>
+  <title>Timeline</title>
+  <script type="text/javascript" src="../Timeline/assets/js/script.js"></script>
+  <link rel="stylesheet" href="../Timeline/assets/css/styles.css">
+</head>
+
+<body onload="onload();">
+
+  <h1>Timeline of Important Theorists</h1>
+
+    <section id="addTheorist">
+      <p>Add a theorist!</p>
+      <p>Name:</p><input type="text" id="name">
+      <p>Birth:</p><input type="number" id="birth">
+      <p>Death (if still alive, enter -1):</p><input type="number" id="death">
+      <p>Life summary:</p><input type="text" id="summary">
+      <button onclick="addTheorist();">Add theorist
+    </section>
+
+</body>
