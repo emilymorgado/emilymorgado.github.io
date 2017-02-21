@@ -1,6 +1,6 @@
 function testButton() {
   // console.log("you clicked the button!");
-  console.log("new message");
+  console.log("so we know changes went through");
   Front.openUrl('https://google.com');
   console.log("did it work this time?");
 }
