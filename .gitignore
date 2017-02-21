@@ -1,0 +1,5 @@
+#Mac specific ignores
+*.DS_Store
+.AppleDouble
+.LSOverride
+*.origp
