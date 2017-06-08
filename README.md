@@ -7,4 +7,4 @@ Highlighting the following:
 * Hobbies
 * Contact
 
-## If you have questions, please contact her!
+If you have questions, please contact her!
