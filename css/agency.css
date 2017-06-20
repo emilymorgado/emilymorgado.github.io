@@ -226,8 +226,14 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/succulants.jpg');
+  background-color: #222222;
+  background-image: url('../img/map-image.png');
+  background-position: center;
   background-repeat: no-repeat;
+
+
+  /*background-image: url('../img/succulants.jpg');*/
+  /*background-repeat: no-repeat;*/
   background-attachment: scroll;
   background-position: center center;
   -webkit-background-size: cover;
@@ -301,9 +307,6 @@ section h3.section-subheading {
 .service-heading {
   margin: 15px 0;
   text-transform: none;
-}
-.service-heading.skills-list ul li {
-  text-align: left;
 }
 section#contact {
   background-color: #222222;
@@ -394,6 +397,11 @@ ul.social-buttons li a {
   -moz-transition: all 0.3s;
   transition: all 0.3s;
 }
+/*ul.monster-label li.monster-github {
+  display: none;
+  background-color: red;
+  color: #fed136; 
+}*/
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {

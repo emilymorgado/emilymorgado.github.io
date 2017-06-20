@@ -28,6 +28,12 @@
         offset: {
             top: 100
         }
-    })
+    });
+
+    // $(function () {
+    //   $('[data-toggle="tooltip"]').tooltip()
+    // });
+
+    // $('.monster-github').tooltip('show')
 
 })(jQuery); // End of use strict
