@@ -230,10 +230,6 @@ header {
   background-image: url('../img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
-
-
-  /*background-image: url('../img/succulants.jpg');*/
-  /*background-repeat: no-repeat;*/
   background-attachment: scroll;
   background-position: center center;
   -webkit-background-size: cover;
@@ -307,6 +303,10 @@ section h3.section-subheading {
 .service-heading {
   margin: 15px 0;
   text-transform: none;
+}
+.about-image img {
+  max-width: 100%;
+  height: auto;
 }
 section#contact {
   background-color: #222222;
