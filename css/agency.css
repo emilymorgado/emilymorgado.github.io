@@ -7,9 +7,6 @@ body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-.text-muted {
-  color: #777777;
-}
 .text-primary {
   color: #fed136;
 }
@@ -45,9 +42,6 @@ h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-}
-.img-centered {
-  margin: 0 auto;
 }
 .bg-light-gray {
   background-color: #eeeeee;
